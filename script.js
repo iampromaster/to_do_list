@@ -14,4 +14,4 @@ addToDoButton.addEventListener('click', function () {
   paragraph.addEventListener('dblclick', () => {
     toDoContainer.removeChild(paragraph);
   })
-})
+})
